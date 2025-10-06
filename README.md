@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Mr-Saroj
 
-<!--
-**Mr-Saroj/Mr-Saroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning:
+- Spring Boot
+- Spring AI
+- React.js
 
-Here are some ideas to get you started:
+🚀 I'm exploring how to integrate **AI into Spring Boot applications** to build intelligent and scalable solutions.  
+By combining **Spring AI** and **React.js**, I aim to enhance my projects with features like:
+- Natural language processing
+- Smart recommendations
+- Chatbots and AI assistants
+- Data-driven decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Goal:**  
+To become a **Full Stack Developer** with strong AI integration skills.
+
+💻 I enjoy building modern web apps with a touch of AI.  
+📚 Always curious, always learning, and ready to collaborate on exciting tech projects!
