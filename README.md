@@ -1,19 +1,29 @@
 # 👋 Hi, I’m Mr-Saroj
 
-🌱 I’m currently learning:
-- Spring Boot
-- Spring AI
-- React.js
+💻 **Full Stack Developer** passionate about building modern and intelligent web applications.
 
-🚀 I'm exploring how to integrate **AI into Spring Boot applications** to build intelligent and scalable solutions.  
-By combining **Spring AI** and **React.js**, I aim to enhance my projects with features like:
-- Natural language processing
-- Smart recommendations
-- Chatbots and AI assistants
-- Data-driven decision-making
+🛠 **Tech Stack**
 
-🎯 **Goal:**  
-To become a **Full Stack Developer** with strong AI integration skills.
+* Java
+* Spring Boot
+* Spring AI
+* JavaScript
+* React.js
+* Node.js (Web Application Development)
+* Express.js
+* MongoDB
+* MySQL
 
-💻 I enjoy building modern web apps with a touch of AI.  
-📚 Always curious, always learning, and ready to collaborate on exciting tech projects!
+🚀 I enjoy developing **scalable full stack web applications** using both **Java Spring Boot** and **Node.js** ecosystems. I am also exploring how **AI can be integrated into Spring Boot applications** to build smarter systems.
+
+By combining **Spring Boot, Spring AI, React.js, and Node.js technologies**, I work on building features such as:
+
+* Smart ServiceHub
+* AI-powered chatbots and assistants
+* SmartLearn AI
+* BookLand
+
+🎯 **Goal:**
+To grow as a **Full Stack Developer with strong AI integration skills**, building intelligent and scalable solutions.
+
+📚 Always curious, always learning, and open to collaborating on exciting tech projects.
