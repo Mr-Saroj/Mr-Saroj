@@ -13,6 +13,7 @@
 * Express.js
 * MongoDB
 * MySQL
+* Cloud
 
 🚀 I enjoy developing **scalable full stack web applications** using both **Java Spring Boot** and **Node.js** ecosystems. I am also exploring how **AI can be integrated into Spring Boot applications** to build smarter systems.
 
