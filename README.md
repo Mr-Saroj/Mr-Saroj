@@ -120,7 +120,7 @@ Bhubaneswar, India · Expected 2027
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saroj_Ojha-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/saroj-ojha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saroj_Ojha-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/saroj-ojha](https://www.linkedin.com/in/saroj-ojha-1a8a78311/?isSelfProfile=true))
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--Saroj-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mr-Saroj)
 
 📧 **Email:** [sarojaojha09@gmail.com](mailto:sarojaojha09@gmail.com)
